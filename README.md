@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science student at Michigan State University. Aspiring data scientist with a strong interest in building practical and real world solutions through technology.
+Hi, I am Marquis! I am a computer science student at Michigan State University. Aspiring data scientist with a strong interest in building practical and real world solutions through technology.
 
   Fun Facts:
   -  I am a lifelong basketball player
