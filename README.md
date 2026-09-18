@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Marquis! I am a computer science student at Michigan State University. I'm also an aspiring data scientist with a strong interest in building practical and real world solutions through technology and a strong background in operations and team coordination to apply such problem-solving skills.
+Hi, I am Marquis! I am a computer science student at Michigan State University with a strong background in operations and leadership. I am looking forward to continue to develop my coding abilities to apply my problem-solving skills within the tech industry.
 
   Fun Facts:
   -  I am a lifelong basketball player
